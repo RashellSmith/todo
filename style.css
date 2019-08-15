@@ -1,0 +1,32 @@
+h1{
+    color: gray;
+    font-size: 3em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: expanded;
+}
+body{
+    margin:0;
+    text-align: center; 
+}
+li{
+    font-size: 1.5em;
+    list-style-type: none;
+}
+
+#input{
+  border-style:solid;
+  border-radius: 10px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  height: 25px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-style:solid;
+    border-color: black;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 30px;
+}
